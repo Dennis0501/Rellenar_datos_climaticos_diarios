@@ -1,0 +1,5 @@
+Reemplazar las comillas por vacio en el archivo que se genera de datos
+
+1. Abrimos el archivo Pp_2010-2016
+2. Reemplazamos con bloc de notas o notpad las comillas para que pueda ser leido por climatool
+3. ctrl +g para guardar
